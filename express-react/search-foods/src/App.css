@@ -1,0 +1,17 @@
+body{
+  margin: 0;
+}
+
+.container{
+  margin: 0 auto;
+}
+
+input{
+  border: solid 2px rgb(160, 155, 155);
+}
+
+.icon{
+  background-color: rgb(160, 155, 155);
+  cursor: pointer;
+  
+}
