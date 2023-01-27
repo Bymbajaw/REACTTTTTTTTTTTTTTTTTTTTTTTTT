@@ -28,6 +28,7 @@ function App() {
     let arr = dt.filter((a) => a.id == selectedCompany);
     setInfo(arr[0]);
   }, [selectedCompany]);
+  // console.log(selected);
 
   return (
     <div className="container">
